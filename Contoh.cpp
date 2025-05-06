@@ -50,7 +50,7 @@ int main()
     cin >> objekPP.panjang;
     cout << "masukkan lebar : ";
     cin >> objekPP.lebar;
-    cout << "luas persegi panjang : ";
+    cout << "luas persegi panjang : " <<
     objekPP.luasPp(objekPP.panjang, objekPP.lebar) << endl;
-    
+
 }
